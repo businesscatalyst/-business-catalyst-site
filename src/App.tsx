@@ -95,7 +95,7 @@ export default function App() {
           <a href="#about" className="hover:text-emerald-700 transition-colors">About Us</a>
         </div>
         <div>
-          <button onClick={() => openModal('https://calendly.com/connect-businesscatalyst/free-intro-call')} className="hidden md:inline-flex items-center justify-center rounded-full bg-emerald-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-emerald-800 transition-all shadow-sm shadow-emerald-900/20">
+          <button onClick={() => openModal('https://docs.google.com/forms/d/e/1FAIpQLSfRi6XitFtV44xRkgAOzz6URslSUX5KLaNJeRFUysJJpaR2Pg/viewform?usp=dialog')} className="hidden md:inline-flex items-center justify-center rounded-full bg-emerald-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-emerald-800 transition-all shadow-sm shadow-emerald-900/20">
             Start with Free Qualification
           </button>
         </div>
@@ -258,7 +258,7 @@ export default function App() {
                   <span className="text-emerald-500 mr-3">—</span> Assessing fit for deep diagnostics
                 </li>
               </ul>
-              <button onClick={() => openModal('https://calendly.com/connect-businesscatalyst/free-intro-call')} className="w-full rounded-full border border-slate-300 bg-white px-4 py-3 text-center text-sm font-medium text-slate-900 hover:border-emerald-500 hover:text-emerald-700 transition-colors">
+              <button onClick={() => openModal('https://docs.google.com/forms/d/e/1FAIpQLSfRi6XitFtV44xRkgAOzz6URslSUX5KLaNJeRFUysJJpaR2Pg/viewform?usp=dialog')} className="w-full rounded-full border border-slate-300 bg-white px-4 py-3 text-center text-sm font-medium text-slate-900 hover:border-emerald-500 hover:text-emerald-700 transition-colors">
                 Start with Free Qualification
               </button>
             </div>
@@ -560,7 +560,7 @@ export default function App() {
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <div className="flex flex-col items-center">
-              <a href="https://calendly.com/connect-businesscatalyst/structural-diagnostic" target="_blank" rel="noreferrer" className="inline-flex items-center justify-center rounded-full border border-emerald-500 bg-transparent px-8 py-4 text-sm font-medium text-white hover:bg-emerald-800 hover:border-emerald-400 transition-all mb-2 min-w-[280px]">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRi6XitFtV44xRkgAOzz6URslSUX5KLaNJeRFUysJJpaR2Pg/viewform?usp=dialog" target="_blank" rel="noreferrer" className="inline-flex items-center justify-center rounded-full border border-emerald-500 bg-transparent px-8 py-4 text-sm font-medium text-white hover:bg-emerald-800 hover:border-emerald-400 transition-all mb-2 min-w-[280px]">
                 Start with Free Qualification
               </a>
               <span className="text-emerald-100 text-xs text-center max-w-[280px]">This is a short qualification step before the full diagnostic.</span>
