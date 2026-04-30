@@ -297,7 +297,7 @@ export default function App() {
                 </p>
               </div>
               <a href="https://calendly.com/connect-businesscatalyst/structural-diagnostic" target="_blank" rel="noreferrer" className="relative z-10 block w-full rounded-full bg-emerald-500 px-4 py-3 text-center text-sm font-medium text-emerald-950 hover:bg-emerald-400 transition-colors shadow-lg shadow-emerald-500/20">
-                Apply for Structural Diagnostic
+                Book Structural Diagnostic (₹4999/-)
               </a>
             </div>
           </div>
